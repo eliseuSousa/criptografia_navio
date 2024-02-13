@@ -70,7 +70,5 @@ int main() {
     
     ordenarBuffer(buffer);
     printf("%c", bin2dec(buffer));
-  }
-  printf("\n");
-  
+  }  
 }
